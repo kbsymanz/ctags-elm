@@ -1,0 +1,3 @@
+--langdef=Elm
+--langmap=Elm:.elm
+--regex-Elm=/^ *([a-z_-]+)[ \t]*:[^:]/\1/f,functions/i
