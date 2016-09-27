@@ -1,3 +1,5 @@
 --langdef=Elm
 --langmap=Elm:.elm
---regex-Elm=/^ *([a-z_-]+)[ \t]*:[^:]/\1/f,functions/i
+--regex-Elm=/^ *([a-z][a-zA-Z0-9_-]+)[ \t]*:[^:].*->.*/\1/f,function,functions/
+--regex-Elm=/^ *([a-z][a-zA-Z0-9_-]+)[ \t]*:[^:][^-]+$/\1/c,constant,constants/
+--regex-Elm=/^port *([a-z][a-zA-Z0-9_-]+)[ \t]*:[^:]/\1/p,port,ports/
