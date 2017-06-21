@@ -30,7 +30,7 @@ type aliases. Contributions are welcome.
 
 See the issues list.
 
-## Related projects
+## Related projects and documentation
 
 - [vim-tagbar-ctags-elm](https://github.com/bitterjug/vim-tagbar-ctags-elm)
 has support for Elm in [Vim Tagbar](https://github.com/majutsushi/tagbar) with [Universal
