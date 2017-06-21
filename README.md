@@ -36,3 +36,4 @@ See the issues list.
 has support for Elm in [Vim Tagbar](https://github.com/majutsushi/tagbar) with [Universal
 Ctags](https://github.com/universal-ctags/ctags).
 
+- [Vim and Ctags by Andrew Stewart](https://andrew.stwrt.ca/posts/vim-ctags/) describes the use of ctags
