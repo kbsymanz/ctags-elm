@@ -3,8 +3,7 @@ An Exuberant ctags file for the Elm language.
 
 ## Contributions welcome
 
-The `.ctags` file currently recognizes functions, constants, ports, types, and
-type aliases. Contributions are welcome.
+The `.ctags` file currently recognizes functions, constants, ports, types, type aliases, type constructors and modules. Contributions are welcome.
 
 ## Usage
 
